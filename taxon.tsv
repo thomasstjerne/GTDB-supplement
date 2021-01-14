@@ -16,12 +16,9 @@ p__Halobacteriota	p__Halobacteriota	d__Archaea	Halobacteriota	phylum	https://gtd
 c__Candidatus_Methanoliparia	c__Methanoliparia		Candidatus Methanoliparia	class		
 c__Poseidoniia	c__Poseidoniia	p__Thermoplasmatota	Poseidoniia	class	https://gtdb.ecogenomic.org/tree?r=c__Poseidoniia	
 p__Thermoplasmatota	p__Thermoplasmatota	d__Archaea	Thermoplasmatota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Thermoplasmatota	
-c__Alphaproteobacteria	c__Poseidoniia		Alphaproteobacteria	class		
-c__Verrucomicrobiae	c__Poseidoniia		Verrucomicrobiae	class		
 o__Halobacteriales	o__Halobacteriales	c__Halobacteria	Halobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Halobacteriales	
 c__Halobacteria	c__Halobacteria	p__Halobacteriota	Halobacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Halobacteria	
 o__Haloferacales	o__Halobacteriales		Haloferacales	order		
-o__Natrialbales	o__Halobacteriales		Natrialbales	order		
 o__Nitrososphaerales	o__Nitrososphaerales	c__Nitrososphaeria	Nitrososphaerales	order	https://gtdb.ecogenomic.org/tree?r=o__Nitrososphaerales	
 c__Nitrososphaeria	c__Nitrososphaeria	p__Thermoproteota	Nitrososphaeria	class	https://gtdb.ecogenomic.org/tree?r=c__Nitrososphaeria	
 o__Nitrosopumilales	o__Nitrososphaerales		Nitrosopumilales	order		
@@ -65,8 +62,6 @@ p__Candidatus_Geothermarchaeota	p__Thermoproteota		Candidatus Geothermarchaeota	
 p__Candidatus_Helarchaeota	p__Asgardarchaeota		Candidatus Helarchaeota	phylum		
 p__Candidatus_Nezhaarchaeota	p__Thermoproteota		Candidatus Nezhaarchaeota	phylum		
 p__Candidatus_Odinarchaeota	p__Asgardarchaeota		Candidatus Odinarchaeota	phylum		
-p__Proteobacteria	p__Thermoplasmatota		Proteobacteria	phylum		
-p__Verrucomicrobia	p__Thermoplasmatota		Verrucomicrobia	phylum		
 c__Actinomycetia	c__Actinomycetia	p__Actinobacteriota	Actinomycetia	class	https://gtdb.ecogenomic.org/tree?r=c__Actinomycetia	
 p__Actinobacteriota	p__Actinobacteriota	d__Bacteria	Actinobacteriota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Actinobacteriota	
 d__Bacteria	d__Bacteria		Bacteria	kingdom	https://gtdb.ecogenomic.org/tree?r=d__Bacteria	
@@ -155,7 +150,6 @@ c__Candidatus_Sumerlaeia	c__Sumerlaeia		Candidatus Sumerlaeia	class
 c__Ozemobacteria	c__Ozemobacteria	p__Riflebacteria	Ozemobacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Ozemobacteria	
 p__Riflebacteria	p__Riflebacteria	d__Bacteria	Riflebacteria	phylum	https://gtdb.ecogenomic.org/tree?r=p__Riflebacteria	
 c__Candidatus_Ozemobacteria	c__Ozemobacteria		Candidatus Ozemobacteria	class		
-c__Halobacteria	c__Gammaproteobacteria		Halobacteria	class		
 c__BOG-944	c__BOG-944	p__Armatimonadota	BOG-944	class	https://gtdb.ecogenomic.org/tree?r=c__BOG-944	
 c__Armatimonadia	c__BOG-944		Armatimonadia	class		
 o__Mycobacteriales	o__Mycobacteriales	c__Actinomycetia	Mycobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Mycobacteriales	
@@ -283,7 +277,6 @@ c__Thermoleophilia	c__Thermoleophilia	p__Actinobacteriota	Thermoleophilia	class	
 o__Thermoleophilales	o__Solirubrobacterales		Thermoleophilales	order		
 o__Sumerlaeales	o__Sumerlaeales	c__Sumerlaeia	Sumerlaeales	order	https://gtdb.ecogenomic.org/tree?r=o__Sumerlaeales	
 o__Candidatus_Sumerlaeales	o__Sumerlaeales		Candidatus Sumerlaeales	order		
-o__Natrialbales	o__Enterobacterales		Natrialbales	order		
 o__UBA10353	o__UBA10353	c__Gammaproteobacteria	UBA10353	order	https://gtdb.ecogenomic.org/tree?r=o__UBA10353	
 o__Arenicellales	o__UBA10353		Arenicellales	order		
 o__Acholeplasmatales	o__Acholeplasmatales	c__Bacilli	Acholeplasmatales	order	https://gtdb.ecogenomic.org/tree?r=o__Acholeplasmatales	
@@ -461,7 +454,6 @@ p__Candidatus_Fraserbacteria	p__Bipolaricaulota		Candidatus Fraserbacteria	phylu
 p__Candidatus_Abawacabacteria	p__Patescibacteria		Candidatus Abawacabacteria	phylum		
 p__Candidatus_Glassbacteria	p__Gemmatimonadota		Candidatus Glassbacteria	phylum		
 p__Candidatus_Wirthbacteria	p__Patescibacteria		Candidatus Wirthbacteria	phylum		
-p__Candidatus_Woesearchaeota	p__Planctomycetota		Candidatus Woesearchaeota	phylum		
 p__Goldbacteria	p__Goldbacteria	d__Bacteria	Goldbacteria	phylum	https://gtdb.ecogenomic.org/tree?r=p__Goldbacteria	
 p__Candidatus_Goldbacteria	p__Goldbacteria		Candidatus Goldbacteria	phylum		
 p__Abditibacteriota	p__Armatimonadota		Abditibacteriota	phylum		
