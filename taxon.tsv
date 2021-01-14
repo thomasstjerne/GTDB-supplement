@@ -2,10 +2,13 @@ taxonID	acceptedNameUsageID	parentNameUsageID	scientificName	taxonRank	reference
 Bacteria	Bacteria		Bacteria	kingdom	https://gtdb.ecogenomic.org/tree?r=d__Bacteria	
 Archaea	Archaea		Archaea	kingdom	kingdom	https://gtdb.ecogenomic.org/tree?r=d__Archaea	
 Thermoproteia	Thermoproteia	Thermoproteota	Thermoproteia	class	https://gtdb.ecogenomic.org/tree?r=c__Thermoproteia	
+Thermoproteota	Thermoproteota	Archaea	Thermoproteota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Thermoproteota	
 Thermoprotei	Thermoproteia		Thermoprotei	class		
 Nanosalinia	Nanosalinia	Nanohaloarchaeota	Nanosalinia	class	https://gtdb.ecogenomic.org/tree?r=c__Nanosalinia	
+Nanohaloarchaeota	Nanohaloarchaeota	Archaea	Nanohaloarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Nanohaloarchaeota	
 Nanohaloarchaea	Nanosalinia		Nanohaloarchaea	class		
 Hadarchaeia	Hadarchaeia	Hadarchaeota	Hadarchaeia	class	https://gtdb.ecogenomic.org/tree?r=c__Hadarchaeia	
+Hadarchaeota	Hadarchaeota	Archaea	Hadarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Hadarchaeota	
 Hadesarchaea	Hadarchaeia		Hadesarchaea	class		
 Methanomethylicia	Methanomethylicia	Thermoproteota	Methanomethylicia	class	https://gtdb.ecogenomic.org/tree?r=c__Methanomethylicia	
 Candidatus_Methanomethylia	Methanomethylicia		Candidatus Methanomethylia	class		
@@ -13,31 +16,27 @@ Methanoliparia	Methanoliparia	Halobacteriota	Methanoliparia	class	https://gtdb.e
 Candidatus_Methanoliparia	Methanoliparia		Candidatus Methanoliparia	class		
 Poseidoniia	Poseidoniia	Thermoplasmatota	Poseidoniia	class	https://gtdb.ecogenomic.org/tree?r=c__Poseidoniia	
 Alphaproteobacteria	Poseidoniia		Alphaproteobacteria	class		
-Poseidoniia	Poseidoniia	Thermoplasmatota	Poseidoniia	class	https://gtdb.ecogenomic.org/tree?r=c__Poseidoniia	
 Verrucomicrobiae	Poseidoniia		Verrucomicrobiae	class		
 Halobacteriales	Halobacteriales	Halobacteria	Halobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Halobacteriales	
+Halobacteria	Halobacteria	Halobacteriota	Halobacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Halobacteria	
 Haloferacales	Halobacteriales		Haloferacales	order		
-Halobacteriales	Halobacteriales	Halobacteria	Halobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Halobacteriales	
 Natrialbales	Halobacteriales		Natrialbales	order		
 Nitrososphaerales	Nitrososphaerales	Nitrososphaeria	Nitrososphaerales	order	https://gtdb.ecogenomic.org/tree?r=o__Nitrososphaerales	
+Nitrososphaeria	Nitrososphaeria	Thermoproteota	Nitrososphaeria	class	https://gtdb.ecogenomic.org/tree?r=c__Nitrososphaeria	
 Nitrosopumilales	Nitrososphaerales		Nitrosopumilales	order		
-Desulfurococcales	Desulfurococcales	Thermoproteia	Desulfurococcales	order	https://gtdb.ecogenomic.org/tree?r=o__Desulfurococcales	
 Acidilobales	Desulfurococcales		Acidilobales	order		
 ANME-1	ANME-1	Syntropharchaeia	ANME-1	order	https://gtdb.ecogenomic.org/tree?r=o__ANME-1	
+Syntropharchaeia	Syntropharchaeia	Halobacteriota	Syntropharchaeia	class	https://gtdb.ecogenomic.org/tree?r=c__Syntropharchaeia	
 Methanophagales	ANME-1		Methanophagales	order		
 Methanomethylicales	Methanomethylicales	Methanomethylicia	Methanomethylicales	order	https://gtdb.ecogenomic.org/tree?r=o__Methanomethylicales	
 Candidatus_Methanomethyliales	Methanomethylicales		Candidatus Methanomethyliales	order		
-Desulfurococcales	Desulfurococcales	Thermoproteia	Desulfurococcales	order	https://gtdb.ecogenomic.org/tree?r=o__Desulfurococcales	
 Fervidicoccales	Desulfurococcales		Fervidicoccales	order		
-Nitrososphaerales	Nitrososphaerales	Nitrososphaeria	Nitrososphaerales	order	https://gtdb.ecogenomic.org/tree?r=o__Nitrososphaerales	
 Candidatus_Nitrosocaldales	Nitrososphaerales		Candidatus Nitrosocaldales	order		
 Methanoliparales	Methanoliparales	Methanoliparia	Methanoliparales	order	https://gtdb.ecogenomic.org/tree?r=o__Methanoliparales	
 Candidatus_Methanoliparales	Methanoliparales		Candidatus Methanoliparales	order		
-Nitrososphaerales	Nitrososphaerales	Nitrososphaeria	Nitrososphaerales	order	https://gtdb.ecogenomic.org/tree?r=o__Nitrososphaerales	
 Cenarchaeales	Nitrososphaerales		Cenarchaeales	order		
 Poseidoniales	Poseidoniales	Poseidoniia	Poseidoniales	order	https://gtdb.ecogenomic.org/tree?r=o__Poseidoniales	
 Rhizobiales	Poseidoniales		Rhizobiales	order		
-Poseidoniales	Poseidoniales	Poseidoniia	Poseidoniales	order	https://gtdb.ecogenomic.org/tree?r=o__Poseidoniales	
 Verrucomicrobiales	Poseidoniales		Verrucomicrobiales	order		
 Crenarchaeota	Thermoproteota		Crenarchaeota	phylum		
 Thaumarchaeota	Thermoproteota		Thaumarchaeota	phylum		
@@ -46,100 +45,87 @@ Nanoarchaeota	Nanoarchaeota	Archaea	Nanoarchaeota	phylum	https://gtdb.ecogenomic
 Candidatus_Woesearchaeota	Nanoarchaeota		Candidatus Woesearchaeota	phylum		
 Micrarchaeota	Micrarchaeota	Archaea	Micrarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Micrarchaeota	
 Candidatus_Micrarchaeota	Micrarchaeota		Candidatus Micrarchaeota	phylum		
-Altarchaeota	Altarchaeota	Archaea	Altarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Altarchaeota	
 Candidatus_Altiarchaeota	Altarchaeota		Candidatus Altiarchaeota	phylum		
 Asgardarchaeota	Asgardarchaeota	Archaea	Asgardarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Asgardarchaeota	
 Candidatus_Thorarchaeota	Asgardarchaeota		Candidatus Thorarchaeota	phylum		
 Candidatus_Verstraetearchaeota	Thermoproteota		Candidatus Verstraetearchaeota	phylum		
-Nanoarchaeota	Nanoarchaeota	Archaea	Nanoarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Nanoarchaeota	
 Candidatus_Parvarchaeota	Nanoarchaeota		Candidatus Parvarchaeota	phylum		
 Iainarchaeota	Iainarchaeota	Archaea	Iainarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Iainarchaeota	
 Candidatus_Diapherotrites	Iainarchaeota		Candidatus Diapherotrites	phylum		
-Asgardarchaeota	Asgardarchaeota	Archaea	Asgardarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Asgardarchaeota	
 Candidatus_Lokiarchaeota	Asgardarchaeota		Candidatus Lokiarchaeota	phylum		
 Candidatus_Korarchaeota	Thermoproteota		Candidatus Korarchaeota	phylum		
 Candidatus_Marsarchaeota	Thermoproteota		Candidatus Marsarchaeota	phylum		
 Huberarchaeota	Huberarchaeota	Archaea	Huberarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Huberarchaeota	
 Candidatus_Huberarchaea	Huberarchaeota		Candidatus Huberarchaea	phylum		
-Asgardarchaeota	Asgardarchaeota	Archaea	Asgardarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Asgardarchaeota	
 Candidatus_Heimdallarchaeota	Asgardarchaeota		Candidatus Heimdallarchaeota	phylum		
 Candidatus_Geothermarchaeota	Thermoproteota		Candidatus Geothermarchaeota	phylum		
-Asgardarchaeota	Asgardarchaeota	Archaea	Asgardarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Asgardarchaeota	
 Candidatus_Helarchaeota	Asgardarchaeota		Candidatus Helarchaeota	phylum		
 Candidatus_Nezhaarchaeota	Thermoproteota		Candidatus Nezhaarchaeota	phylum		
-Asgardarchaeota	Asgardarchaeota	Archaea	Asgardarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Asgardarchaeota	
 Candidatus_Odinarchaeota	Asgardarchaeota		Candidatus Odinarchaeota	phylum		
 Proteobacteria	Thermoplasmatota		Proteobacteria	phylum		
 Verrucomicrobia	Thermoplasmatota		Verrucomicrobia	phylum		
 Actinomycetia	Actinomycetia	Actinobacteriota	Actinomycetia	class	https://gtdb.ecogenomic.org/tree?r=c__Actinomycetia	
+Actinobacteriota	Actinobacteriota	Bacteria	Actinobacteriota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Actinobacteriota	
 Actinobacteria	Actinomycetia		Actinobacteria	class		
-Gammaproteobacteria	Gammaproteobacteria	Proteobacteria	Gammaproteobacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Gammaproteobacteria	
 Betaproteobacteria	Gammaproteobacteria		Betaproteobacteria	class		
 Campylobacteria	Campylobacteria	Campylobacterota	Campylobacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Campylobacteria	
+Campylobacterota	Campylobacterota	Bacteria	Campylobacterota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Campylobacterota	
 Epsilonproteobacteria	Campylobacteria		Epsilonproteobacteria	class		
-Bacteroidia	Bacteroidia	Bacteroidota	Bacteroidia	class	https://gtdb.ecogenomic.org/tree?r=c__Bacteroidia	
 Flavobacteriia	Bacteroidia		Flavobacteriia	class		
-Bacilli	Bacilli	Firmicutes	Bacilli	class	https://gtdb.ecogenomic.org/tree?r=c__Bacilli	
 Mollicutes	Bacilli		Mollicutes	class		
-Bacteroidia	Bacteroidia	Bacteroidota	Bacteroidia	class	https://gtdb.ecogenomic.org/tree?r=c__Bacteroidia	
 Cytophagia	Bacteroidia		Cytophagia	class		
-Bacilli	Bacilli	Firmicutes	Bacilli	class	https://gtdb.ecogenomic.org/tree?r=c__Bacilli	
 Erysipelotrichia	Bacilli		Erysipelotrichia	class		
 Acidobacteriae	Acidobacteriae	Acidobacteriota	Acidobacteriae	class	https://gtdb.ecogenomic.org/tree?r=c__Acidobacteriae	
+Acidobacteriota	Acidobacteriota	Bacteria	Acidobacteriota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Acidobacteriota	
 Acidobacteriia	Acidobacteriae		Acidobacteriia	class		
-Bacteroidia	Bacteroidia	Bacteroidota	Bacteroidia	class	https://gtdb.ecogenomic.org/tree?r=c__Bacteroidia	
 Sphingobacteriia	Bacteroidia		Sphingobacteriia	class		
 Verrucomicrobiae	Verrucomicrobiae	Verrucomicrobiota	Verrucomicrobiae	class	https://gtdb.ecogenomic.org/tree?r=c__Verrucomicrobiae	
+Verrucomicrobiota	Verrucomicrobiota	Bacteria	Verrucomicrobiota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Verrucomicrobiota	
 Opitutae	Verrucomicrobiae		Opitutae	class		
-Bacteroidia	Bacteroidia	Bacteroidota	Bacteroidia	class	https://gtdb.ecogenomic.org/tree?r=c__Bacteroidia	
 Chitinophagia	Bacteroidia		Chitinophagia	class		
-Clostridia	Clostridia	Firmicutes_A	Clostridia	class	https://gtdb.ecogenomic.org/tree?r=c__Clostridia	
 Tissierellia	Clostridia		Tissierellia	class		
 Rhodothermia	Rhodothermia	Bacteroidota	Rhodothermia	class	https://gtdb.ecogenomic.org/tree?r=c__Rhodothermia	
 Balneolia	Rhodothermia		Balneolia	class		
-Actinomycetia	Actinomycetia	Actinobacteriota	Actinomycetia	class	https://gtdb.ecogenomic.org/tree?r=c__Actinomycetia	
 Nitriliruptoria	Actinomycetia		Nitriliruptoria	class		
-Bacteroidia	Bacteroidia	Bacteroidota	Bacteroidia	class	https://gtdb.ecogenomic.org/tree?r=c__Bacteroidia	
 Saprospiria	Bacteroidia		Saprospiria	class		
 Gracilibacteria	Gracilibacteria	Patescibacteria	Gracilibacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Gracilibacteria	
+Patescibacteria	Patescibacteria	Bacteria	Patescibacteria	phylum	https://gtdb.ecogenomic.org/tree?r=p__Patescibacteria	
 Candidatus_Peribacteria	Gracilibacteria		Candidatus Peribacteria	class		
-Verrucomicrobiae	Verrucomicrobiae	Verrucomicrobiota	Verrucomicrobiae	class	https://gtdb.ecogenomic.org/tree?r=c__Verrucomicrobiae	
 Spartobacteria	Verrucomicrobiae		Spartobacteria	class		
-Gammaproteobacteria	Gammaproteobacteria	Proteobacteria	Gammaproteobacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Gammaproteobacteria	
 Acidithiobacillia	Gammaproteobacteria		Acidithiobacillia	class		
-Gammaproteobacteria	Gammaproteobacteria	Proteobacteria	Gammaproteobacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Gammaproteobacteria	
 Hydrogenophilalia	Gammaproteobacteria		Hydrogenophilalia	class		
 Brocadiae	Brocadiae	Planctomycetota	Brocadiae	class	https://gtdb.ecogenomic.org/tree?r=c__Brocadiae	
 Candidatus_Brocadiae	Brocadiae		Candidatus Brocadiae	class		
 Fimbriimonadia	Fimbriimonadia	Armatimonadota	Fimbriimonadia	class	https://gtdb.ecogenomic.org/tree?r=c__Fimbriimonadia	
+Armatimonadota	Armatimonadota	Bacteria	Armatimonadota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Armatimonadota	
 Chthonomonadetes	Fimbriimonadia		Chthonomonadetes	class		
 Chloroflexia	Chloroflexia	Chloroflexota	Chloroflexia	class	https://gtdb.ecogenomic.org/tree?r=c__Chloroflexia	
 Thermomicrobia	Chloroflexia		Thermomicrobia	class		
-Anaerolineae	Anaerolineae	Chloroflexota	Anaerolineae	class	https://gtdb.ecogenomic.org/tree?r=c__Anaerolineae	
 Thermoflexia	Anaerolineae		Thermoflexia	class		
-Verrucomicrobiae	Verrucomicrobiae	Verrucomicrobiota	Verrucomicrobiae	class	https://gtdb.ecogenomic.org/tree?r=c__Verrucomicrobiae	
 Methylacidiphilae	Verrucomicrobiae		Methylacidiphilae	class		
-Gammaproteobacteria	Gammaproteobacteria	Proteobacteria	Gammaproteobacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Gammaproteobacteria	
 Candidatus_Muproteobacteria	Gammaproteobacteria		Candidatus Muproteobacteria	class		
 Caldisericia	Caldisericia	Caldisericota	Caldisericia	class	https://gtdb.ecogenomic.org/tree?r=c__Caldisericia	
+Caldisericota	Caldisericota	Bacteria	Caldisericota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Caldisericota	
 Candidatus_Cryosericia	Caldisericia		Candidatus Cryosericia	class		
-Anaerolineae	Anaerolineae	Chloroflexota	Anaerolineae	class	https://gtdb.ecogenomic.org/tree?r=c__Anaerolineae	
 Ardenticatenia	Anaerolineae		Ardenticatenia	class		
-Anaerolineae	Anaerolineae	Chloroflexota	Anaerolineae	class	https://gtdb.ecogenomic.org/tree?r=c__Anaerolineae	
 Caldilineae	Anaerolineae		Caldilineae	class		
 SAR324	SAR324	SAR324	SAR324	class	https://gtdb.ecogenomic.org/tree?r=c__SAR324	
+SAR324	SAR324	Bacteria	SAR324	phylum	https://gtdb.ecogenomic.org/tree?r=p__SAR324	
 Candidatus_Lambdaproteobacteria	SAR324		Candidatus Lambdaproteobacteria	class		
 Fermentibacteria	Fermentibacteria	Fermentibacterota	Fermentibacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Fermentibacteria	
+Fermentibacterota	Fermentibacterota	Bacteria	Fermentibacterota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Fermentibacterota	
 Candidatus_Fermentibacteria_(class)	Fermentibacteria		Candidatus Fermentibacteria (class)	class		
 Sericytochromatia	Sericytochromatia	Cyanobacteria	Sericytochromatia	class	https://gtdb.ecogenomic.org/tree?r=c__Sericytochromatia	
+Cyanobacteria	Cyanobacteria	Bacteria	Cyanobacteria	phylum	https://gtdb.ecogenomic.org/tree?r=p__Cyanobacteria	
 Candidatus_Sericytochromatia	Sericytochromatia		Candidatus Sericytochromatia	class		
-Anaerolineae	Anaerolineae	Chloroflexota	Anaerolineae	class	https://gtdb.ecogenomic.org/tree?r=c__Anaerolineae	
 Candidatus_Thermofonsia	Anaerolineae		Candidatus Thermofonsia	class		
 Marinamargulisbacteria	Marinamargulisbacteria	Margulisbacteria	Marinamargulisbacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Marinamargulisbacteria	
+Margulisbacteria	Margulisbacteria	Bacteria	Margulisbacteria	phylum	https://gtdb.ecogenomic.org/tree?r=p__Margulisbacteria	
 Candidatus_Marinamargulisbacteria	Marinamargulisbacteria		Candidatus Marinamargulisbacteria	class		
 Cyanobacteriia	Cyanobacteriia	Cyanobacteria	Cyanobacteriia	class	https://gtdb.ecogenomic.org/tree?r=c__Cyanobacteriia	
 Gloeobacteria	Cyanobacteriia		Gloeobacteria	class		
 Babeliae	Babeliae	Dependentiae	Babeliae	class	https://gtdb.ecogenomic.org/tree?r=c__Babeliae	
+Dependentiae	Dependentiae	Bacteria	Dependentiae	phylum	https://gtdb.ecogenomic.org/tree?r=p__Dependentiae	
 Candidatus_Babeliae	Babeliae		Candidatus Babeliae	class		
 Chitinivibrionia	Chitinivibrionia	Fibrobacterota	Chitinivibrionia	class	https://gtdb.ecogenomic.org/tree?r=c__Chitinivibrionia	
 Chitinispirillia	Chitinivibrionia		Chitinispirillia	class		
@@ -148,72 +134,54 @@ Candidatus_Riflemargulisbacteria	Riflemargulisbacteria		Candidatus Riflemargulis
 Termititenacia	Termititenacia	Margulisbacteria	Termititenacia	class	https://gtdb.ecogenomic.org/tree?r=c__Termititenacia	
 Candidatus_Termititenacia	Termititenacia		Candidatus Termititenacia	class		
 Sumerlaeia	Sumerlaeia	Sumerlaeota	Sumerlaeia	class	https://gtdb.ecogenomic.org/tree?r=c__Sumerlaeia	
+Sumerlaeota	Sumerlaeota	Bacteria	Sumerlaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Sumerlaeota	
 Candidatus_Sumerlaeia	Sumerlaeia		Candidatus Sumerlaeia	class		
 Ozemobacteria	Ozemobacteria	Riflebacteria	Ozemobacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Ozemobacteria	
+Riflebacteria	Riflebacteria	Bacteria	Riflebacteria	phylum	https://gtdb.ecogenomic.org/tree?r=p__Riflebacteria	
 Candidatus_Ozemobacteria	Ozemobacteria		Candidatus Ozemobacteria	class		
-Gammaproteobacteria	Gammaproteobacteria	Proteobacteria	Gammaproteobacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Gammaproteobacteria	
 Halobacteria	Gammaproteobacteria		Halobacteria	class		
 BOG-944	BOG-944	Armatimonadota	BOG-944	class	https://gtdb.ecogenomic.org/tree?r=c__BOG-944	
 Armatimonadia	BOG-944		Armatimonadia	class		
 Mycobacteriales	Mycobacteriales	Actinomycetia	Mycobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Mycobacteriales	
 Corynebacteriales	Mycobacteriales		Corynebacteriales	order		
-Enterobacterales	Enterobacterales	Gammaproteobacteria	Enterobacterales	order	https://gtdb.ecogenomic.org/tree?r=o__Enterobacterales	
 Vibrionales	Enterobacterales		Vibrionales	order		
-Burkholderiales	Burkholderiales	Gammaproteobacteria	Burkholderiales	order	https://gtdb.ecogenomic.org/tree?r=o__Burkholderiales	
 Neisseriales	Burkholderiales		Neisseriales	order		
 Actinomycetales	Actinomycetales	Actinomycetia	Actinomycetales	order	https://gtdb.ecogenomic.org/tree?r=o__Actinomycetales	
 Micrococcales	Actinomycetales		Micrococcales	order		
-Enterobacterales	Enterobacterales	Gammaproteobacteria	Enterobacterales	order	https://gtdb.ecogenomic.org/tree?r=o__Enterobacterales	
 Pasteurellales	Enterobacterales		Pasteurellales	order		
-Actinomycetales	Actinomycetales	Actinomycetia	Actinomycetales	order	https://gtdb.ecogenomic.org/tree?r=o__Actinomycetales	
 Bifidobacteriales	Actinomycetales		Bifidobacteriales	order		
-Enterobacterales	Enterobacterales	Gammaproteobacteria	Enterobacterales	order	https://gtdb.ecogenomic.org/tree?r=o__Enterobacterales	
 Alteromonadales	Enterobacterales		Alteromonadales	order		
 PCC-6307	PCC-6307	Cyanobacteriia	PCC-6307	order	https://gtdb.ecogenomic.org/tree?r=o__PCC-6307	
 Synechococcales	PCC-6307		Synechococcales	order		
-Pseudomonadales	Pseudomonadales	Gammaproteobacteria	Pseudomonadales	order	https://gtdb.ecogenomic.org/tree?r=o__Pseudomonadales	
 Oceanospirillales	Pseudomonadales		Oceanospirillales	order		
-Enterobacterales	Enterobacterales	Gammaproteobacteria	Enterobacterales	order	https://gtdb.ecogenomic.org/tree?r=o__Enterobacterales	
 Aeromonadales	Enterobacterales		Aeromonadales	order		
-Burkholderiales	Burkholderiales	Gammaproteobacteria	Burkholderiales	order	https://gtdb.ecogenomic.org/tree?r=o__Burkholderiales	
 Nitrosomonadales	Burkholderiales		Nitrosomonadales	order		
-Mycobacteriales	Mycobacteriales	Actinomycetia	Mycobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Mycobacteriales	
 Micromonosporales	Mycobacteriales		Micromonosporales	order		
-Mycobacteriales	Mycobacteriales	Actinomycetia	Mycobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Mycobacteriales	
 Pseudonocardiales	Mycobacteriales		Pseudonocardiales	order		
-Pseudomonadales	Pseudomonadales	Gammaproteobacteria	Pseudomonadales	order	https://gtdb.ecogenomic.org/tree?r=o__Pseudomonadales	
 Cellvibrionales	Pseudomonadales		Cellvibrionales	order		
 Cyanobacteriales	Cyanobacteriales	Cyanobacteriia	Cyanobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Cyanobacteriales	
 Nostocales	Cyanobacteriales		Nostocales	order		
-Cyanobacteriales	Cyanobacteriales	Cyanobacteriia	Cyanobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Cyanobacteriales	
 Chroococcales	Cyanobacteriales		Chroococcales	order		
-Coriobacteriales	Coriobacteriales	Coriobacteriia	Coriobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Coriobacteriales	
 Eggerthellales	Coriobacteriales		Eggerthellales	order		
 Deinococcales	Deinococcales	Deinococci	Deinococcales	order	https://gtdb.ecogenomic.org/tree?r=o__Deinococcales	
+Deinococci	Deinococci	Deinococcota	Deinococci	class	https://gtdb.ecogenomic.org/tree?r=c__Deinococci	
+Deinococcota	Deinococcota	Bacteria	Deinococcota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Deinococcota	
 Thermales	Deinococcales		Thermales	order		
-Enterobacterales	Enterobacterales	Gammaproteobacteria	Enterobacterales	order	https://gtdb.ecogenomic.org/tree?r=o__Enterobacterales	
 Orbales	Enterobacterales		Orbales	order		
-Burkholderiales	Burkholderiales	Gammaproteobacteria	Burkholderiales	order	https://gtdb.ecogenomic.org/tree?r=o__Burkholderiales	
 Rhodocyclales	Burkholderiales		Rhodocyclales	order		
-Cyanobacteriales	Cyanobacteriales	Cyanobacteriia	Cyanobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Cyanobacteriales	
 Oscillatoriales	Cyanobacteriales		Oscillatoriales	order		
-Bacteroidales	Bacteroidales	Bacteroidia	Bacteroidales	order	https://gtdb.ecogenomic.org/tree?r=o__Bacteroidales	
 Marinilabiliales	Bacteroidales		Marinilabiliales	order		
-Mycoplasmatales	Mycoplasmatales	Bacilli	Mycoplasmatales	order	https://gtdb.ecogenomic.org/tree?r=o__Mycoplasmatales	
 Entomoplasmatales	Mycoplasmatales		Entomoplasmatales	order		
-Mycobacteriales	Mycobacteriales	Actinomycetia	Mycobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Mycobacteriales	
 Geodermatophilales	Mycobacteriales		Geodermatophilales	order		
-Mycobacteriales	Mycobacteriales	Actinomycetia	Mycobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Mycobacteriales	
 Frankiales	Mycobacteriales		Frankiales	order		
-Chitinophagales	Chitinophagales	Bacteroidia	Chitinophagales	order	https://gtdb.ecogenomic.org/tree?r=o__Chitinophagales	
 Saprospirales	Chitinophagales		Saprospirales	order		
 Rhodothermales	Rhodothermales	Rhodothermia	Rhodothermales	order	https://gtdb.ecogenomic.org/tree?r=o__Rhodothermales	
 Bacteroidetes_Order_II._Incertae_sedis	Rhodothermales		Bacteroidetes Order II. Incertae sedis	order		
-Burkholderiales	Burkholderiales	Gammaproteobacteria	Burkholderiales	order	https://gtdb.ecogenomic.org/tree?r=o__Burkholderiales	
 Hydrogenophilales	Burkholderiales		Hydrogenophilales	order		
 Petrotogales	Petrotogales	Thermotogae	Petrotogales	order	https://gtdb.ecogenomic.org/tree?r=o__Petrotogales	
 Kosmotogales	Petrotogales		Kosmotogales	order		
 Gastranaerophilales	Gastranaerophilales	Vampirovibrionia	Gastranaerophilales	order	https://gtdb.ecogenomic.org/tree?r=o__Gastranaerophilales	
+Vampirovibrionia	Vampirovibrionia	Cyanobacteria	Vampirovibrionia	class	https://gtdb.ecogenomic.org/tree?r=c__Vampirovibrionia	
 Candidatus_Gastranaerophilales	Gastranaerophilales		Candidatus Gastranaerophilales	order		
 Brocadiales	Brocadiales	Brocadiae	Brocadiales	order	https://gtdb.ecogenomic.org/tree?r=o__Brocadiales	
 Candidatus_Brocadiales	Brocadiales		Candidatus Brocadiales	order		
@@ -223,53 +191,41 @@ Opitutales	Opitutales	Verrucomicrobiae	Opitutales	order	https://gtdb.ecogenomic.
 Puniceicoccales	Opitutales		Puniceicoccales	order		
 Nanopelagicales	Nanopelagicales	Actinomycetia	Nanopelagicales	order	https://gtdb.ecogenomic.org/tree?r=o__Nanopelagicales	
 Candidatus_Nanopelagicales	Nanopelagicales		Candidatus Nanopelagicales	order		
-Mycobacteriales	Mycobacteriales	Actinomycetia	Mycobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Mycobacteriales	
 Glycomycetales	Mycobacteriales		Glycomycetales	order		
-Nevskiales	Nevskiales	Gammaproteobacteria	Nevskiales	order	https://gtdb.ecogenomic.org/tree?r=o__Nevskiales	
 Salinisphaerales	Nevskiales		Salinisphaerales	order		
-Mycobacteriales	Mycobacteriales	Actinomycetia	Mycobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Mycobacteriales	
 Actinopolysporales	Mycobacteriales		Actinopolysporales	order		
-Sphingomonadales	Sphingomonadales	Alphaproteobacteria	Sphingomonadales	order	https://gtdb.ecogenomic.org/tree?r=o__Sphingomonadales	
 Kordiimonadales	Sphingomonadales		Kordiimonadales	order		
 Peribacterales	Peribacterales	Gracilibacteria	Peribacterales	order	https://gtdb.ecogenomic.org/tree?r=o__Peribacterales	
 Candidatus_Peribacterales	Peribacterales		Candidatus Peribacterales	order		
 B4-G1	B4-G1	Anaerolineae	B4-G1	order	https://gtdb.ecogenomic.org/tree?r=o__B4-G1	
 Thermoflexales	B4-G1		Thermoflexales	order		
-Actinomycetales	Actinomycetales	Actinomycetia	Actinomycetales	order	https://gtdb.ecogenomic.org/tree?r=o__Actinomycetales	
 Kineosporiales	Actinomycetales		Kineosporiales	order		
-Caulobacterales	Caulobacterales	Alphaproteobacteria	Caulobacterales	order	https://gtdb.ecogenomic.org/tree?r=o__Caulobacterales	
 Parvularculales	Caulobacterales		Parvularculales	order		
-Cyanobacteriales	Cyanobacteriales	Cyanobacteriia	Cyanobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Cyanobacteriales	
 Pleurocapsales	Cyanobacteriales		Pleurocapsales	order		
-Burkholderiales	Burkholderiales	Gammaproteobacteria	Burkholderiales	order	https://gtdb.ecogenomic.org/tree?r=o__Burkholderiales	
 Ferrovales	Burkholderiales		Ferrovales	order		
-Mycobacteriales	Mycobacteriales	Actinomycetia	Mycobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Mycobacteriales	
 Nakamurellales	Mycobacteriales		Nakamurellales	order		
 Cryosericales	Cryosericales	Caldisericia	Cryosericales	order	https://gtdb.ecogenomic.org/tree?r=o__Cryosericales	
 Candidatus_Cryosericales	Cryosericales		Candidatus Cryosericales	order		
-Cyanobacteriales	Cyanobacteriales	Cyanobacteriia	Cyanobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Cyanobacteriales	
 Chroococcidiopsidales	Cyanobacteriales		Chroococcidiopsidales	order		
 Chloroflexales	Chloroflexales	Chloroflexia	Chloroflexales	order	https://gtdb.ecogenomic.org/tree?r=o__Chloroflexales	
 Herpetosiphonales	Chloroflexales		Herpetosiphonales	order		
-Thermomicrobiales	Thermomicrobiales	Chloroflexia	Thermomicrobiales	order	https://gtdb.ecogenomic.org/tree?r=o__Thermomicrobiales	
 Sphaerobacterales	Thermomicrobiales		Sphaerobacterales	order		
-Sphingomonadales	Sphingomonadales	Alphaproteobacteria	Sphingomonadales	order	https://gtdb.ecogenomic.org/tree?r=o__Sphingomonadales	
 Emcibacterales	Sphingomonadales		Emcibacterales	order		
-Streptomycetales	Streptomycetales	Actinomycetia	Streptomycetales	order	https://gtdb.ecogenomic.org/tree?r=o__Streptomycetales	
 Catenulisporales	Streptomycetales		Catenulisporales	order		
 Ktedonobacterales	Ktedonobacterales	Ktedonobacteria	Ktedonobacterales	order	https://gtdb.ecogenomic.org/tree?r=o__Ktedonobacterales	
+Ktedonobacteria	Ktedonobacteria	Chloroflexota	Ktedonobacteria	class	https://gtdb.ecogenomic.org/tree?r=c__Ktedonobacteria	
 Thermogemmatisporales	Ktedonobacterales		Thermogemmatisporales	order		
-Mycobacteriales	Mycobacteriales	Actinomycetia	Mycobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Mycobacteriales	
 Cryptosporangiales	Mycobacteriales		Cryptosporangiales	order		
 Fermentibacterales	Fermentibacterales	Fermentibacteria	Fermentibacterales	order	https://gtdb.ecogenomic.org/tree?r=o__Fermentibacterales	
 Candidatus_Fermentibacterales	Fermentibacterales		Candidatus Fermentibacterales	order		
 Euzebyales	Euzebyales	Actinomycetia	Euzebyales	order	https://gtdb.ecogenomic.org/tree?r=o__Euzebyales	
 Egibacterales	Euzebyales		Egibacterales	order		
 Acidulodesulfobacterales	Acidulodesulfobacterales	SZUA-79	Acidulodesulfobacterales	order	https://gtdb.ecogenomic.org/tree?r=o__Acidulodesulfobacterales	
+SZUA-79	SZUA-79	SZUA-79	SZUA-79	class	https://gtdb.ecogenomic.org/tree?r=c__SZUA-79	
+SZUA-79	SZUA-79	Bacteria	SZUA-79	phylum	https://gtdb.ecogenomic.org/tree?r=p__SZUA-79	
 Candidatus_Acidulodesulfobacterales	Acidulodesulfobacterales		Candidatus Acidulodesulfobacterales	order		
 Babeliales	Babeliales	Babeliae	Babeliales	order	https://gtdb.ecogenomic.org/tree?r=o__Babeliales	
 Candidatus_Babeliales	Babeliales		Candidatus Babeliales	order		
-Cyanobacteriales	Cyanobacteriales	Cyanobacteriia	Cyanobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Cyanobacteriales	
 Spirulinales	Cyanobacteriales		Spirulinales	order		
 Chitinivibrionales	Chitinivibrionales	Chitinivibrionia	Chitinivibrionales	order	https://gtdb.ecogenomic.org/tree?r=o__Chitinivibrionales	
 Chitinispirillales	Chitinivibrionales		Chitinispirillales	order		
@@ -278,6 +234,7 @@ Candidatus_Termititenacales	Termititenacales		Candidatus Termititenacales	order
 TMED189	TMED189	Acidimicrobiia	TMED189	order	https://gtdb.ecogenomic.org/tree?r=o__TMED189	
 Candidatus_Actinomarinales	TMED189		Candidatus Actinomarinales	order		
 Pyrinomonadales	Pyrinomonadales	Blastocatellia	Pyrinomonadales	order	https://gtdb.ecogenomic.org/tree?r=o__Pyrinomonadales	
+Blastocatellia	Blastocatellia	Acidobacteriota	Blastocatellia	class	https://gtdb.ecogenomic.org/tree?r=c__Blastocatellia	
 Blastocatellales	Pyrinomonadales		Blastocatellales	order		
 Fibrobacterales	Fibrobacterales	Fibrobacteria	Fibrobacterales	order	https://gtdb.ecogenomic.org/tree?r=o__Fibrobacterales	
 Fibromonadales	Fibrobacterales		Fibromonadales	order		
@@ -291,17 +248,13 @@ Solirubrobacterales	Solirubrobacterales	Thermoleophilia	Solirubrobacterales	orde
 Thermoleophilales	Solirubrobacterales		Thermoleophilales	order		
 Sumerlaeales	Sumerlaeales	Sumerlaeia	Sumerlaeales	order	https://gtdb.ecogenomic.org/tree?r=o__Sumerlaeales	
 Candidatus_Sumerlaeales	Sumerlaeales		Candidatus Sumerlaeales	order		
-Enterobacterales	Enterobacterales	Gammaproteobacteria	Enterobacterales	order	https://gtdb.ecogenomic.org/tree?r=o__Enterobacterales	
 Natrialbales	Enterobacterales		Natrialbales	order		
-UBA10353	UBA10353	Gammaproteobacteria	UBA10353	order	https://gtdb.ecogenomic.org/tree?r=o__UBA10353	
 Arenicellales	UBA10353		Arenicellales	order		
-Acholeplasmatales	Acholeplasmatales	Bacilli	Acholeplasmatales	order	https://gtdb.ecogenomic.org/tree?r=o__Acholeplasmatales	
 Anaeroplasmatales	Acholeplasmatales		Anaeroplasmatales	order		
-Sphingomonadales	Sphingomonadales	Alphaproteobacteria	Sphingomonadales	order	https://gtdb.ecogenomic.org/tree?r=o__Sphingomonadales	
 Rhodothalassiales	Sphingomonadales		Rhodothalassiales	order		
 Christensenellales	Christensenellales	Clostridia_A	Christensenellales	order	https://gtdb.ecogenomic.org/tree?r=o__Christensenellales	
+Clostridia_A	Clostridia_A	Firmicutes_A	Clostridia_A	class	https://gtdb.ecogenomic.org/tree?r=c__Clostridia_A	
 Candidatus_Borkfalkiales	Christensenellales		Candidatus Borkfalkiales	order		
-Nitriliruptorales	Nitriliruptorales	Actinomycetia	Nitriliruptorales	order	https://gtdb.ecogenomic.org/tree?r=o__Nitriliruptorales	
 Egicoccales	Nitriliruptorales		Egicoccales	order		
 Actinobacteria	Actinobacteriota		Actinobacteria	phylum		
 Bacteroidetes	Bacteroidota		Bacteroidetes	phylum		
@@ -315,11 +268,9 @@ Chlamydiae	Verrucomicrobiota_A		Chlamydiae	phylum
 Fusobacteria	Fusobacteriota		Fusobacteria	phylum		
 Nitrospirae	Nitrospirota		Nitrospirae	phylum		
 Gemmatimonadetes	Gemmatimonadota		Gemmatimonadetes	phylum		
-Deinococcota	Deinococcota	Bacteria	Deinococcota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Deinococcota	
 Deinococcus-Thermus	Deinococcota		Deinococcus-Thermus	phylum		
 Marinisomatota	Marinisomatota	Bacteria	Marinisomatota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Marinisomatota	
 Candidatus_Marinimicrobia	Marinisomatota		Candidatus Marinimicrobia	phylum		
-Thermotogota	Thermotogota	Bacteria	Thermotogota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Thermotogota	
 Thermotogae	Thermotogota		Thermotogae	phylum		
 Ignavibacteriae	Bacteroidota		Ignavibacteriae	phylum		
 Candidatus_Nomurabacteria	Patescibacteria		Candidatus Nomurabacteria	phylum		
@@ -412,7 +363,6 @@ Eisenbacteria	Eisenbacteria	Bacteria	Eisenbacteria	phylum	https://gtdb.ecogenomi
 Candidatus_Eisenbacteria	Eisenbacteria		Candidatus Eisenbacteria	phylum		
 Candidatus_Harrisonbacteria	Patescibacteria		Candidatus Harrisonbacteria	phylum		
 Candidatus_Buchananbacteria	Patescibacteria		Candidatus Buchananbacteria	phylum		
-Methylomirabilota	Methylomirabilota	Bacteria	Methylomirabilota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Methylomirabilota	
 candidate_division_NC10	Methylomirabilota		candidate division NC10	phylum		
 Candidatus_Veblenbacteria	Patescibacteria		Candidatus Veblenbacteria	phylum		
 Candidatus_Andersenbacteria	Patescibacteria		Candidatus Andersenbacteria	phylum		
@@ -445,13 +395,11 @@ RBG-13-66-14	RBG-13-66-14	Bacteria	RBG-13-66-14	phylum	https://gtdb.ecogenomic.o
 Candidatus_Coatesbacteria	RBG-13-66-14		Candidatus Coatesbacteria	phylum		
 Firestonebacteria	Firestonebacteria	Bacteria	Firestonebacteria	phylum	https://gtdb.ecogenomic.org/tree?r=p__Firestonebacteria	
 Candidatus_Firestonebacteria	Firestonebacteria		Candidatus Firestonebacteria	phylum		
-WOR-3	WOR-3	Bacteria	WOR-3	phylum	https://gtdb.ecogenomic.org/tree?r=p__WOR-3	
 Candidatus_Hydrothermae	WOR-3		Candidatus Hydrothermae	phylum		
 Calescibacterota	Calescibacterota	Bacteria	Calescibacterota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Calescibacterota	
 Candidatus_Calescamantes	Calescibacterota		Candidatus Calescamantes	phylum		
 Candidatus_Spechtbacteria	Patescibacteria		Candidatus Spechtbacteria	phylum		
 Candidatus_Chisholmbacteria	Patescibacteria		Candidatus Chisholmbacteria	phylum		
-Latescibacterota	Latescibacterota	Bacteria	Latescibacterota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Latescibacterota	
 Candidatus_Handelsmanbacteria	Latescibacterota		Candidatus Handelsmanbacteria	phylum		
 Lindowbacteria	Lindowbacteria	Bacteria	Lindowbacteria	phylum	https://gtdb.ecogenomic.org/tree?r=p__Lindowbacteria	
 Candidatus_Lindowbacteria	Lindowbacteria		Candidatus Lindowbacteria	phylum		
@@ -460,7 +408,6 @@ Wallbacteria	Wallbacteria	Bacteria	Wallbacteria	phylum	https://gtdb.ecogenomic.o
 Candidatus_Wallbacteria	Wallbacteria		Candidatus Wallbacteria	phylum		
 Abyssubacteria	Abyssubacteria	Bacteria	Abyssubacteria	phylum	https://gtdb.ecogenomic.org/tree?r=p__Abyssubacteria	
 Candidatus_Abyssubacteria	Abyssubacteria		Candidatus Abyssubacteria	phylum		
-Bipolaricaulota	Bipolaricaulota	Bacteria	Bipolaricaulota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Bipolaricaulota	
 Candidatus_Fraserbacteria	Bipolaricaulota		Candidatus Fraserbacteria	phylum		
 Candidatus_Abawacabacteria	Patescibacteria		Candidatus Abawacabacteria	phylum		
 Candidatus_Glassbacteria	Gemmatimonadota		Candidatus Glassbacteria	phylum		
