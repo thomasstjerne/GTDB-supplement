@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd" packageId="" system="http://gbif.org" scope="system" xml:lang="en">
+    <dataset>
+        <title>GTDB supplement</title>
+        <creator>
+            <individualName>
+                <givenName>Thomas Stjernegaard</givenName>
+                <surName>Jeppesen</surName>
+            </individualName>
+            <organizationName>GBIF</organizationName>
+            <electronicMailAddress>tsjeppesen@gbif.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-1691-239X</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Thomas Stjernegaard</givenName>
+                <surName>Jeppesen</surName>
+            </individualName>
+            <organizationName>GBIF</organizationName>
+            <electronicMailAddress>tsjeppesen@gbif.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-1691-239X</userId>
+        </metadataProvider> 
+        <pubDate>2021-01-14</pubDate>
+        <language>en</language>
+        <abstract>
+            <para>A list of NCBI higher taxa (Phyla, Classes, Orders) synonymised to taxa in the Genome Taxonomy Database. Data are based on https://data.gtdb.ecogenomic.org/releases/release95/95.0/auxillary_files/ncbi_vs_gtdb_r95_archaea.xlsx and https://data.gtdb.ecogenomic.org/releases/release95/95.0/auxillary_files/ncbi_vs_gtdb_r95_bacteria.xlsx. NCBI taxa that are polyphyletic in GTDB have been included as a synonym if a GTDB taxon covers > 80% of the NCBI taxon.</para>
+        </abstract>      
+        <distribution scope="document">
+            <online>
+                <url function="information">https://github.com/thomasstjerne/GTDB-supplement</url>
+            </online>
+        </distribution>
+        <contact> 
+<individualName>
+                <givenName>Thomas Stjernegaard</givenName>
+                <surName>Jeppesen</surName>
+            </individualName>
+            <organizationName>GBIF</organizationName>
+            <electronicMailAddress>tsjeppesen@gbif.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0003-1691-239X</userId>
+        </contact>
+    </dataset>
+</eml:eml>
