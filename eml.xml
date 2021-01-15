@@ -4,26 +4,82 @@
         <title>GTDB supplement</title>
         <creator>
             <individualName>
-                <givenName>Thomas Stjernegaard</givenName>
-                <surName>Jeppesen</surName>
+                <givenName>Donovan</givenName>
+                <surName>Parks</surName>
             </individualName>
-            <organizationName>GBIF</organizationName>
-            <electronicMailAddress>tsjeppesen@gbif.org</electronicMailAddress>
-            <userId directory="http://orcid.org/">0000-0003-1691-239X</userId>
+            <organizationName>Australian Centre for Ecogenomics</organizationName>
+            <positionName>Dr</positionName>
+            <address>
+                <country>AU</country>
+            </address>
+            <electronicMailAddress>donovan.parks@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-6662-9010</userId>
+            <onlineUrl>https://ecogenomic.org/personnel/dr-donovan-parks</onlineUrl>
         </creator>
+        <creator>
+            <individualName>
+                <givenName>Phil</givenName>
+                <surName>Hugenholtz</surName>
+            </individualName>
+            <organizationName>Australian Centre for Ecogenomics</organizationName>
+            <positionName>Professor</positionName>
+            <address>
+                <country>AU</country>
+            </address>
+            <electronicMailAddress>p.hugenholtz@uq.edu.au</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-5386-7925</userId>
+            <onlineUrl>https://ecogenomic.org/personnel/prof-phil-hugenholtz</onlineUrl>
+        </creator>
+         <metadataProvider>
+            <individualName>
+                <givenName>Donovan</givenName>
+                <surName>Parks</surName>
+            </individualName>
+            <organizationName>Australian Centre for Ecogenomics</organizationName>
+            <positionName>Dr</positionName>
+            <address>
+                <country>AU</country>
+            </address>
+            <electronicMailAddress>donovan.parks@gmail.com</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-6662-9010</userId>
+            <onlineUrl>https://ecogenomic.org/personnel/dr-donovan-parks</onlineUrl>
+        </metadataProvider>
         <metadataProvider>
             <individualName>
-                <givenName>Thomas Stjernegaard</givenName>
-                <surName>Jeppesen</surName>
+                <givenName>Phil</givenName>
+                <surName>Hugenholtz</surName>
             </individualName>
-            <organizationName>GBIF</organizationName>
-            <electronicMailAddress>tsjeppesen@gbif.org</electronicMailAddress>
-            <userId directory="http://orcid.org/">0000-0003-1691-239X</userId>
-        </metadataProvider> 
+            <organizationName>Australian Centre for Ecogenomics</organizationName>
+            <positionName>Professor</positionName>
+            <address>
+                <country>AU</country>
+            </address>
+            <electronicMailAddress>p.hugenholtz@uq.edu.au</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-5386-7925</userId>
+            <onlineUrl>https://ecogenomic.org/personnel/prof-phil-hugenholtz</onlineUrl>
+        </metadataProvider>
+        
+        <associatedParty>
+            <individualName>
+                <givenName>Pierre</givenName>
+                <surName>Chaumeil</surName>
+            </individualName>
+            <organizationName>Australian Centre for Ecogenomics</organizationName>
+            <positionName>Software developer</positionName>
+            <address>
+                <country>AU</country>
+            </address>
+            <electronicMailAddress>p.chaumeil@qfab.org</electronicMailAddress>
+            <onlineUrl>https://ecogenomic.org/personnel/mr-pierre-chaumeil</onlineUrl>
+            <role>user</role>
+        </associatedParty>
         <pubDate>2021-01-14</pubDate>
         <language>en</language>
         <abstract>
-            <para>A list of NCBI higher taxa (Phyla, Classes, Orders) synonymised to taxa in the Genome Taxonomy Database. Data are based on https://data.gtdb.ecogenomic.org/releases/release95/95.0/auxillary_files/ncbi_vs_gtdb_r95_archaea.xlsx and https://data.gtdb.ecogenomic.org/releases/release95/95.0/auxillary_files/ncbi_vs_gtdb_r95_bacteria.xlsx. NCBI taxa that are polyphyletic in GTDB have been included as a synonym if a GTDB taxon covers > 80% of the NCBI taxon.</para>
+            <para>A list of NCBI higher taxa (Phyla, Classes, Orders) resolved to taxa in the <a href="https://www.gbif.org/dataset/a97f36e5-ded1-49cc-bdec-ac6170fc7b9c">Genome Taxonomy Database</a>. 
+            Data are based on https://data.gtdb.ecogenomic.org/releases/release95/95.0/auxillary_files/ncbi_vs_gtdb_r95_archaea.xlsx and https://data.gtdb.ecogenomic.org/releases/release95/95.0/auxillary_files/ncbi_vs_gtdb_r95_bacteria.xlsx. 
+            NCBI taxa that are polyphyletic in GTDB have been included as a synonym if a GTDB taxon covers > 80% of the NCBI taxon.
+            </para>
         </abstract>      
         <distribution scope="document">
             <online>
@@ -32,12 +88,17 @@
         </distribution>
         <contact> 
 <individualName>
-                <givenName>Thomas Stjernegaard</givenName>
-                <surName>Jeppesen</surName>
+                <individualName>
+                <givenName>Phil</givenName>
+                <surName>Hugenholtz</surName>
             </individualName>
-            <organizationName>GBIF</organizationName>
-            <electronicMailAddress>tsjeppesen@gbif.org</electronicMailAddress>
-            <userId directory="http://orcid.org/">0000-0003-1691-239X</userId>
-        </contact>
+            <organizationName>Australian Centre for Ecogenomics</organizationName>
+            <positionName>Professor</positionName>
+            <address>
+                <country>AU</country>
+            </address>
+            <electronicMailAddress>p.hugenholtz@uq.edu.au</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-5386-7925</userId>
+            <onlineUrl>https://ecogenomic.org/personnel/prof-phil-hugenholtz</onlineUrl>
     </dataset>
 </eml:eml>
