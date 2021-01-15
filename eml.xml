@@ -87,7 +87,6 @@
             </online>
         </distribution>
         <contact> 
-<individualName>
                 <individualName>
                 <givenName>Phil</givenName>
                 <surName>Hugenholtz</surName>
@@ -100,5 +99,6 @@
             <electronicMailAddress>p.hugenholtz@uq.edu.au</electronicMailAddress>
             <userId directory="http://orcid.org/">0000-0001-5386-7925</userId>
             <onlineUrl>https://ecogenomic.org/personnel/prof-phil-hugenholtz</onlineUrl>
+            </contact>
     </dataset>
 </eml:eml>
