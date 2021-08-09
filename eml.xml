@@ -77,7 +77,7 @@
         <language>en</language>
         <abstract>
             <para>A list of NCBI higher taxa (Phyla, Classes, Orders) resolved to taxa in the <a href="https://www.gbif.org/dataset/a97f36e5-ded1-49cc-bdec-ac6170fc7b9c">Genome Taxonomy Database</a>. 
-            Data are based on https://data.gtdb.ecogenomic.org/releases/release95/95.0/auxillary_files/ncbi_vs_gtdb_r95_archaea.xlsx and https://data.gtdb.ecogenomic.org/releases/release95/95.0/auxillary_files/ncbi_vs_gtdb_r95_bacteria.xlsx. 
+            Data are based on https://data.gtdb.ecogenomic.org/releases/release202/202.0/auxillary_files/ncbi_vs_gtdb_r202_archaea.xlsx and https://data.gtdb.ecogenomic.org/releases/release202/202.0/auxillary_files/ncbi_vs_gtdb_r202_bacteria.xlsx. 
             NCBI taxa that are polyphyletic in GTDB have been included as a synonym if a GTDB taxon covers > 80% of the NCBI taxon.
             </para>
         </abstract>      
