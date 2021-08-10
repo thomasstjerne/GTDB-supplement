@@ -21,9 +21,6 @@ c__Methanoliparia	c__Methanoliparia	p__Halobacteriota	Methanoliparia	class	https
 p__Halobacteriota	p__Halobacteriota	d__Archaea	Halobacteriota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Halobacteriota	
 c__Candidatus_Methanoliparia	c__Methanoliparia		Candidatus Methanoliparia	class		
 c__Thermoplasmata	c__Thermoplasmata	p__Thermoplasmatota	Thermoplasmata	class	https://gtdb.ecogenomic.org/tree?r=c__Thermoplasmata	
-c__Gammaproteobacteria	c__Thermoplasmata		Gammaproteobacteria	class		
-c__Alphaproteobacteria	c__Poseidoniia_A		Alphaproteobacteria	class		
-c__Verrucomicrobiae	c__Poseidoniia_A		Verrucomicrobiae	class		
 o__Poseidoniales	o__Poseidoniales	c__Poseidoniia_A	Poseidoniales	order	https://gtdb.ecogenomic.org/tree?r=o__Poseidoniales	
 o__Candidatus_Poseidoniales	o__Poseidoniales		Candidatus Poseidoniales	order		
 o__Halobacteriales	o__Halobacteriales	c__Halobacteria	Halobacteriales	order	https://gtdb.ecogenomic.org/tree?r=o__Halobacteriales	
@@ -497,7 +494,6 @@ p__Candidatus_Abawacabacteria	p__Patescibacteria		Candidatus Abawacabacteria	phy
 p__Aureabacteria	p__Aureabacteria	d__Bacteria	Aureabacteria	phylum	https://gtdb.ecogenomic.org/tree?r=p__Aureabacteria	
 p__Candidatus_Aureabacteria	p__Aureabacteria		Candidatus Aureabacteria	phylum		
 p__Candidatus_Cerribacteria	p__Patescibacteria		Candidatus Cerribacteria	phylum		
-p__Candidatus_Woesearchaeota	p__Planctomycetota		Candidatus Woesearchaeota	phylum		
 p__Euryarchaeota	p__Bacteroidota		Euryarchaeota	phylum		
 p__Candidatus_Glassbacteria	p__Gemmatimonadota		Candidatus Glassbacteria	phylum		
 p__Abditibacteriota	p__Armatimonadota		Abditibacteriota	phylum		
