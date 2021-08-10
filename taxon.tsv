@@ -72,7 +72,6 @@ p__Candidatus_Nezhaarchaeota	p__Thermoproteota		Candidatus Nezhaarchaeota	phylum
 p__Hydrothermarchaeota	p__Hydrothermarchaeota	d__Archaea	Hydrothermarchaeota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Hydrothermarchaeota	
 p__Candidatus_Hydrothermarchaeota	p__Hydrothermarchaeota		Candidatus Hydrothermarchaeota	phylum		
 p__Candidatus_Odinarchaeota	p__Asgardarchaeota		Candidatus Odinarchaeota	phylum		
-p__Verrucomicrobia	p__Thermoplasmatota		Verrucomicrobia	phylum		
 c__Actinomycetia	c__Actinomycetia	p__Actinobacteriota	Actinomycetia	class	https://gtdb.ecogenomic.org/tree?r=c__Actinomycetia	
 p__Actinobacteriota	p__Actinobacteriota	d__Bacteria	Actinobacteriota	phylum	https://gtdb.ecogenomic.org/tree?r=p__Actinobacteriota	
 d__Bacteria	d__Bacteria		Bacteria	kingdom	https://gtdb.ecogenomic.org/tree?r=d__Bacteria	
